@@ -538,7 +538,7 @@
   <FadeToBlack>1</FadeToBlack>
   <FadeScreen>1</FadeScreen>
   <WindowLayout>
-    <Maximised>true</Maximised>
+    <Maximised>false</Maximised>
     <TransitionsOpen>false</TransitionsOpen>
     <BackgroundsOpen>true</BackgroundsOpen>
     <LowPriorityBackgroundsOpen>false</LowPriorityBackgroundsOpen>
