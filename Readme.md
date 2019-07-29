@@ -56,7 +56,7 @@ Los himnos se pueden buscar tanto por número como por título. **Es importante 
 - Para buscar el himno número `29` ponemos `029` en el buscador.
 - Para buscar el himno número `385` ponemos `385` en el buscador.
 
-Luego de encontrar la alabanza que queremos proyectar, la podemos seleccionar de dos formas.
+Luego de encontrar el Coro/Himno que queremos proyectar, la podemos seleccionar de dos formas.
 
 - Haciendo `Doble Click` en el Coro/Himno encontrado.
 - Presionando `Flecha Abajo` (Para interactuar con los resultados de la busqueda) y luego `Enter`. Esta forma es la que considero más rápida, ya que en ningún momento sacamos las manos del teclado.
