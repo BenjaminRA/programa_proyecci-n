@@ -10,11 +10,11 @@ En este documento explicaremos el proceso de instalación y de uso del software 
     - [Edición rápida](#Edición-rápida)
 
 ## Instalación
-Descargar desde el siguiente enlace: https://drive.google.com/file/d/1bCXi3mm60l7iShWg_oirCZeVdT97TGDN/view?usp=sharing
+Descargar el programa desde el siguiente enlace: https://drive.google.com/file/d/1bCXi3mm60l7iShWg_oirCZeVdT97TGDN/view?usp=sharing
 
 Luego de eso, hay que descomprimir el archivo descargado en el lugar donde desea instalar el programa. Como es un software portable, solo es necesario tener los archivos y no requiere de un proceso de instalación que modifique los registros.
 
-Finalmente, para iniciar el programa debe hacer doble click en el ícono que dice `FreeWorship`
+Finalmente, para iniciar el programa debe hacer `Doble Click` en el ícono que dice `FreeWorship`
 
 ![Descarga](assets/launch_Step.png)
 
@@ -32,7 +32,7 @@ En caso de que aparezca un cuadro de dialogo diciengo algo de un registro, es un
 ### Proyección
 Veremos 3 funciones importantes a la hora de proyectar.
 
-- Mostrar Contenido: presionando el cuarto botón de la barra de botones ubicada en la parte centro derecha o con la tecla `F12`. Sirve para volver a volver a mostrar el contenido de lo que queremos proyectar cuando cambiamos a pantalla negra u ocultar contenido.
+- Mostrar Contenido: presionando el cuarto botón de la barra de botones ubicada en la parte centro derecha o con la tecla `F12`. Sirve para volver a mostrar el contenido de lo que queremos proyectar cuando cambiamos a pantalla negra u ocultar contenido.
 
 - Ocultar Contenido: presionando el tercer botón de la barra de botones ubicada en la parte centro derecha o con la tecla `F11`. Se ocupa para ocultar las letras o cualquier cosa que este mostrandose en pantalla, pero mateniendo el fondo.
 ![Ocultar Contenido](assets/ocultar_contenido.gif)
