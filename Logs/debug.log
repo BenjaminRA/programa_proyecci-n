@@ -131513,3 +131513,399 @@ DEBUG2019-07-29 14:41:03,725 [46]
 Uploaded 100 log lines to server
 
 
+DEBUG2019-07-29 14:41:34,370 [52]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:41:35,937 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-07-29 14:41:35,943 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-07-29 14:41:35,946 [1]
+Opening folder '...\Media\Backgrounds\' in file browser
+
+
+INFO 2019-07-29 14:41:36,041 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+
+DEBUG2019-07-29 14:42:05,037 [52]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:42:08,393 [48]
+Text creation 23 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:42:08,393 [52]
+Text creation 148 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:42:08,393 [43]
+Text creation 23 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:42:08,396 [53]
+Text creation 148 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 14:42:08,413 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"112 - Paz Cual un Río ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-07-29 14:42:12,858 [43]
+Text creation 56 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:42:12,859 [50]
+Text creation 56 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 14:42:12,859 [1]
+SlideView: Song
+{"serviceItemType":"Song","serviceItemIndex":"112 - Paz Cual un Río ().xml","serviceSubItemIndex":"FreeWorship.ViewModel.SongVerseDisplayVM"}
+
+DEBUG2019-07-29 14:42:35,662 [49]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:43:06,330 [41]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:43:30,116 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:43:30,121 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:43:30,126 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:43:30,126 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:43:36,964 [36]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:44:07,610 [22]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:44:28,869 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:44:28,869 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:44:28,874 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:44:28,874 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:44:38,311 [50]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:45:08,962 [35]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:45:39,593 [26]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:46:10,281 [54]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:46:40,914 [45]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:47:11,635 [24]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:47:42,292 [35]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:48:12,928 [29]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:48:43,820 [49]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:49:14,556 [31]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:49:45,316 [59]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:50:15,967 [64]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:50:46,615 [65]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:51:17,266 [59]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:51:47,906 [58]
+Uploaded 32 log lines to server
+
+
+INFO 2019-07-29 14:54:27,801 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"112 - Paz Cual un Río ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-07-29 14:55:07,623 [26]
+Text creation 23 characters 342,23x171,105
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:55:07,623 [49]
+Text creation 148 characters 342,23x171,105
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:55:07,653 [23]
+Text creation 23 characters 341,48x170,73
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:55:07,662 [55]
+Text creation 148 characters 341,48x170,73
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 14:56:18,251 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"Sin ti Señor ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-07-29 14:56:18,270 [34]
+Text creation 19 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:18,272 [23]
+Text creation 19 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:18,273 [49]
+Text creation 162 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:18,273 [26]
+Text creation 162 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 14:56:19,502 [1]
+SlideView: Song
+{"serviceItemType":"Song","serviceItemIndex":"Sin ti Señor ().xml","serviceSubItemIndex":"FreeWorship.ViewModel.SongVerseDisplayVM"}
+
+DEBUG2019-07-29 14:56:19,534 [34]
+Text creation 193 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:19,535 [57]
+Text creation 193 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 14:56:20,609 [1]
+SlideView: Song
+{"serviceItemType":"Song","serviceItemIndex":"Sin ti Señor ().xml","serviceSubItemIndex":"FreeWorship.ViewModel.SongVerseDisplayVM"}
+
+DEBUG2019-07-29 14:56:20,629 [55]
+Text creation 173 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:20,630 [29]
+Text creation 173 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 14:56:49,590 [31]
+Uploaded 11 log lines to server
+
+
+INFO 2019-07-29 15:02:50,119 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"225 - Tuyo, Señor! ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-07-29 15:02:50,125 [47]
+Text creation 20 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:02:50,131 [49]
+Text creation 20 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:02:50,134 [23]
+Text creation 106 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:02:50,134 [29]
+Text creation 106 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-07-29 15:03:19,697 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"225 - Tuyo, Señor! ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-07-29 15:03:21,243 [55]
+Uploaded 11 log lines to server
+
+
+DEBUG2019-07-29 15:07:44,406 [40]
+Text creation 105 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:07:44,408 [25]
+Text creation 105 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:07:50,746 [38]
+Text creation 108 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:07:50,746 [25]
+Text creation 108 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:08:12,287 [6]
+Text creation 112 characters 640x320
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-07-29 15:08:12,296 [6]
+Text creation 112 characters 706x353
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+

@@ -2,8 +2,9 @@
 En este documento explicaremos el proceso de instalación y de uso del software **FreeWorship** para la proyección de cánticos y de la Biblia RVR1960
 - [Instalación](#instalación)
 - [Instrucciones de uso](#Instrucciones-de-uso)
-    - [Buscar coros/himnos](#Buscar-coros/himnos)
+    - [Buscar Coros/Himnos](#Buscar-coros/himnos)
     - [Buscar versículos](#Buscar-versículos)
+    - []()
     - [Agregar canciones](#Buscar-Himnos)
     - [Editar canciones](#Buscar-Himnos)
     - [Edición rápida](#Buscar-Himnos)
@@ -22,7 +23,7 @@ Finalmente, para iniciar el programa debe hacer doble click en el ícono que dic
 En caso de que aparezca un cuadro de dialogo diciengo algo de un registro, es una cosa opcional, puede llenar ese formulario o cerrarlo directamente y el programa abirirá normalmente.
 
 ## Instrucciones de uso
-### Buscar coros/himnos
+### Buscar Coros/Himnos
 El programa inicia por defecto en modo "buscar canciones", pero para entrar a ese modo hay que hacer click en el ícono de la nota musical, ubicado en el menu de modos de la puarte superior izquierda del programa
 
 ![Modo Coros/Himnos](assets/canciones_mode.png)
@@ -37,7 +38,7 @@ Los himnos se pueden buscar tanto por número como por título. **Es importante 
 
 Luego de encontrar la alabanza que queremos proyectar, la podemos seleccionar de dos formas.
 
-- Haciendo `doble click` en el Coro/Himno encontrado.
+- Haciendo `Doble Click` en el Coro/Himno encontrado.
 - Presionando `Flecha Abajo` (Para interactuar con los resultados de la busqueda) y luego `Enter`. Esta forma es la que considero más rápida, ya que en ningún momento sacamos las manos del teclado.
 
-![Buscar canción](assets/canciones_mode.png)
+![Buscar coros/himnos](assets/canciones.gif)
