@@ -131185,3 +131185,311 @@ INFO 2019-07-29 14:37:28,569 [1]
 Loaded 219 fonts successfully
 
 
+DEBUG2019-07-29 14:37:28,601 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:37:28,608 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:37:28,649 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:37:28,650 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+INFO 2019-07-29 14:37:29,156 [1]
+Songs Database loaded with 854 items
+
+
+DEBUG2019-07-29 14:37:29,211 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-07-29 14:37:29,217 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-07-29 14:37:29,219 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-07-29 14:37:29,220 [1]
+Importing chapters from Números
+
+
+DEBUG2019-07-29 14:37:29,225 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-07-29 14:37:29,227 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-07-29 14:37:29,228 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-07-29 14:37:29,235 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-07-29 14:37:29,235 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-07-29 14:37:29,236 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-07-29 14:37:29,238 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-07-29 14:37:29,239 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-07-29 14:37:29,240 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-07-29 14:37:29,241 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-07-29 14:37:29,243 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-07-29 14:37:29,243 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-07-29 14:37:29,244 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-07-29 14:37:29,245 [1]
+Importing chapters from Job
+
+
+DEBUG2019-07-29 14:37:29,251 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-07-29 14:37:29,262 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-07-29 14:37:29,263 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-07-29 14:37:29,264 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-07-29 14:37:29,264 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-07-29 14:37:29,266 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-07-29 14:37:29,268 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-07-29 14:37:29,268 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-07-29 14:37:29,270 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-07-29 14:37:29,270 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-07-29 14:37:29,271 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-07-29 14:37:29,276 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-07-29 14:37:29,277 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-07-29 14:37:29,277 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-07-29 14:37:29,277 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-07-29 14:37:29,278 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-07-29 14:37:29,278 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-07-29 14:37:29,279 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-07-29 14:37:29,279 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-07-29 14:37:29,280 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-07-29 14:37:29,281 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-07-29 14:37:29,281 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-07-29 14:37:29,287 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-07-29 14:37:29,288 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-07-29 14:37:29,300 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-07-29 14:37:29,301 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-07-29 14:37:29,305 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-07-29 14:37:29,306 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-07-29 14:37:29,307 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-07-29 14:37:29,307 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-07-29 14:37:29,308 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-07-29 14:37:29,311 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-07-29 14:37:29,312 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-07-29 14:37:29,321 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-07-29 14:37:29,322 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-07-29 14:37:29,323 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-07-29 14:37:29,323 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-07-29 14:37:29,324 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-07-29 14:37:29,324 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-07-29 14:37:29,325 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-07-29 14:37:29,325 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-07-29 14:37:29,326 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-07-29 14:37:29,326 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-07-29 14:37:29,327 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-07-29 14:37:29,331 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-07-29 14:37:29,331 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-07-29 14:37:29,333 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-07-29 14:37:29,333 [1]
+Importing chapters from Apocalipsis
+
+
+INFO 2019-07-29 14:37:29,369 [1]
+Bibles Database loaded with 1 items
+
+
+INFO 2019-07-29 14:37:29,420 [1]
+Slides Database loaded with 6 items
+
+
+DEBUG2019-07-29 14:37:29,644 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:37:29,645 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:37:59,811 [9]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:38:30,458 [6]
+Uploaded 100 log lines to server
+
+
