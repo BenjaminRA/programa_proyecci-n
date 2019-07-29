@@ -130683,3 +130683,505 @@ FreeWorship closed
 -------------------------------------
 
 
+INFO 2019-07-29 14:33:36,149 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:16267MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"16267MB","SessionId":"fa6e9f4f-6db7-4f1b-a432-b9fae7c31aac"}
+
+INFO 2019-07-29 14:33:36,227 [1]
+SessionID: fa6e9f4f-6db7-4f1b-a432-b9fae7c31aac
+
+
+DEBUG2019-07-29 14:33:36,227 [1]
+Starting new Icon generation thread ThumbGen6219
+
+
+INFO 2019-07-29 14:33:36,704 [1]
+Created Win8.1/Win10 spell checker
+
+
+INFO 2019-07-29 14:33:36,707 [1]
+Cleared unused spelling dictionaries from registry
+
+
+INFO 2019-07-29 14:33:37,653 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-07-29 14:33:37,768 [1]
+Presentation window's handle is 460576
+
+
+INFO 2019-07-29 14:33:38,175 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\","TempFolder":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data","DefaultDatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data\\","RawDatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data","DisplayMonitor":"\\\\.\\DISPLAY2","DisplayBounds":"0,0,0,0","UsesCustomDisplay":false,"StageDisplayMonitor":"\\\\.\\DISPLAY2","StageDisplayBounds":"0,0,0,0","UsesCustomStageDisplay":false,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri Light","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":false,"Font":{"FontFamily":"Calibri Light","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Century Gothic","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":false,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":1.0,"ItemDisplayRowHeight":2.0,"LeftColumnWidth":2.0,"CentreColumnWidth":3.0,"RightColumnWidth":3.0},"FileBrowserStates":{"MediaForeground":{"Folder":"...\\Media\\","Zoom":75.0},"MediaBackground":{"Folder":"...\\Media\\Backgrounds\\","Zoom":75.0},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"C:\\Users\\Febe\\Documents","Zoom":75.0},"BibleImporter":{"Folder":"C:\\Users\\Febe\\Documents","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Seafoam\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":true,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-07-29 14:33:38,184 [12]
+Licence not updated because FW isn't logged in 
+
+
+DEBUG2019-07-29 14:33:38,267 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:33:38,276 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:33:38,572 [1]
+Started initialising log uploader
+{"UploadPeriod":30000,"MaxLogsToUploadAtOnce":100,"ReprotErrorsOnly":false,"ReportingUsername":"LoggedOut:-610662940"}
+
+DEBUG2019-07-29 14:33:38,578 [1]
+Finished initialising log uploader
+
+
+INFO 2019-07-29 14:33:38,704 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-07-29 14:33:38,818 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-07-29 14:33:39,068 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-07-29 14:33:39,210 [1]
+Failed to load the following font:Eras Bold ITC 
+{"FailedFont":"Eras Bold ITC"}
+
+INFO 2019-07-29 14:33:39,210 [1]
+Failed to load the following font:Eras Demi ITC 
+{"FailedFont":"Eras Demi ITC"}
+
+INFO 2019-07-29 14:33:39,211 [1]
+Failed to load the following font:Eras Light ITC 
+{"FailedFont":"Eras Light ITC"}
+
+INFO 2019-07-29 14:33:39,211 [1]
+Failed to load the following font:Eras Medium ITC 
+{"FailedFont":"Eras Medium ITC"}
+
+INFO 2019-07-29 14:33:39,477 [1]
+Loaded 219 fonts successfully
+
+
+DEBUG2019-07-29 14:33:39,558 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:33:39,580 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:33:39,642 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:33:39,643 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+INFO 2019-07-29 14:33:45,246 [1]
+Songs Database loaded with 854 items
+
+
+DEBUG2019-07-29 14:33:45,416 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-07-29 14:33:45,429 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-07-29 14:33:45,431 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-07-29 14:33:45,432 [1]
+Importing chapters from Números
+
+
+DEBUG2019-07-29 14:33:45,434 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-07-29 14:33:45,435 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-07-29 14:33:45,436 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-07-29 14:33:45,443 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-07-29 14:33:45,443 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-07-29 14:33:45,445 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-07-29 14:33:45,446 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-07-29 14:33:45,447 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-07-29 14:33:45,449 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-07-29 14:33:45,450 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-07-29 14:33:45,451 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-07-29 14:33:45,452 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-07-29 14:33:45,453 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-07-29 14:33:45,453 [1]
+Importing chapters from Job
+
+
+DEBUG2019-07-29 14:33:45,466 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-07-29 14:33:45,469 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-07-29 14:33:45,470 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-07-29 14:33:45,471 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-07-29 14:33:45,471 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-07-29 14:33:45,472 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-07-29 14:33:45,474 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-07-29 14:33:45,475 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-07-29 14:33:45,476 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-07-29 14:33:45,477 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-07-29 14:33:45,478 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-07-29 14:33:45,484 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-07-29 14:33:45,485 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-07-29 14:33:45,485 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-07-29 14:33:45,485 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-07-29 14:33:45,486 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-07-29 14:33:45,486 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-07-29 14:33:45,487 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-07-29 14:33:45,487 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-07-29 14:33:45,497 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-07-29 14:33:45,498 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-07-29 14:33:45,498 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-07-29 14:33:45,506 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-07-29 14:33:45,507 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-07-29 14:33:45,508 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-07-29 14:33:45,509 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-07-29 14:33:45,510 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-07-29 14:33:45,511 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-07-29 14:33:45,512 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-07-29 14:33:45,512 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-07-29 14:33:45,513 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-07-29 14:33:45,513 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-07-29 14:33:45,514 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-07-29 14:33:45,520 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-07-29 14:33:45,521 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-07-29 14:33:45,521 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-07-29 14:33:45,522 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-07-29 14:33:45,522 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-07-29 14:33:45,523 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-07-29 14:33:45,523 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-07-29 14:33:45,524 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-07-29 14:33:45,524 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-07-29 14:33:45,525 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-07-29 14:33:45,525 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-07-29 14:33:45,531 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-07-29 14:33:45,532 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-07-29 14:33:45,539 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-07-29 14:33:45,540 [1]
+Importing chapters from Apocalipsis
+
+
+INFO 2019-07-29 14:33:45,580 [1]
+Bibles Database loaded with 1 items
+
+
+INFO 2019-07-29 14:33:45,656 [1]
+Slides Database loaded with 6 items
+
+
+DEBUG2019-07-29 14:33:45,986 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:33:45,989 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:34:10,164 [9]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:34:40,820 [6]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:35:11,464 [26]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:35:42,136 [30]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:36:12,872 [34]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:36:43,566 [28]
+Uploaded 100 log lines to server
+
+
+DEBUG2019-07-29 14:37:14,284 [27]
+Uploaded 100 log lines to server
+
+
+INFO 2019-07-29 14:37:26,948 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:16267MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"16267MB","SessionId":"59ef6887-8d84-4a5e-9853-0dab2c304e39"}
+
+INFO 2019-07-29 14:37:26,995 [1]
+SessionID: 59ef6887-8d84-4a5e-9853-0dab2c304e39
+
+
+DEBUG2019-07-29 14:37:26,995 [1]
+Starting new Icon generation thread ThumbGen2632
+
+
+INFO 2019-07-29 14:37:27,244 [1]
+Created Win8.1/Win10 spell checker
+
+
+INFO 2019-07-29 14:37:27,244 [1]
+Cleared unused spelling dictionaries from registry
+
+
+INFO 2019-07-29 14:37:27,395 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-07-29 14:37:27,444 [1]
+Presentation window's handle is 198726
+
+
+INFO 2019-07-29 14:37:27,774 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\","TempFolder":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data","DefaultDatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data\\","RawDatabaseLocation":"C:\\Users\\depre\\Desktop\\FreeWorshipPortable_3.5.1.183\\Data","DisplayMonitor":"\\\\.\\DISPLAY2","DisplayBounds":"0,0,0,0","UsesCustomDisplay":false,"StageDisplayMonitor":"\\\\.\\DISPLAY2","StageDisplayBounds":"0,0,0,0","UsesCustomStageDisplay":false,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri Light","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":false,"Font":{"FontFamily":"Calibri Light","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Century Gothic","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":0,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":2.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":255,"G":255,"B":255},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":false,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":1.0,"ItemDisplayRowHeight":2.0,"LeftColumnWidth":2.0,"CentreColumnWidth":3.0,"RightColumnWidth":3.0},"FileBrowserStates":{"MediaForeground":{"Folder":"...\\Media\\","Zoom":75.0},"MediaBackground":{"Folder":"...\\Media\\Backgrounds\\","Zoom":75.0},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"C:\\Users\\Febe\\Documents","Zoom":75.0},"BibleImporter":{"Folder":"C:\\Users\\Febe\\Documents","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Seafoam\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":true,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-07-29 14:37:27,784 [12]
+Licence not updated because FW isn't logged in 
+
+
+DEBUG2019-07-29 14:37:27,859 [1]
+encryptedLicenceData:
+
+
+WARN 2019-07-29 14:37:27,867 [1]
+Failed to process Licence Key
+{"encryptedLicenceData:":null,"Exception":{"ClassName":"System.ArgumentNullException","Message":"El valor no puede ser nulo.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Convert.FromBase64String(String s)\r\n   en FreeWorship.ProActivation.Encrypter.Decrypt(String cypherText, String rsaPublicKey)\r\n   en FreeWorship.ProActivation.ActivationManager.DecodeLicence(String encryptedLicenceData, String publicKey)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nFromBase64String\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Convert\nByte[] FromBase64String(System.String)","HResult":-2147467261,"Source":"mscorlib","WatsonBuckets":null,"ParamName":"s"}}
+
+DEBUG2019-07-29 14:37:28,084 [1]
+Started initialising log uploader
+{"UploadPeriod":30000,"MaxLogsToUploadAtOnce":100,"ReprotErrorsOnly":false,"ReportingUsername":"LoggedOut:-610662940"}
+
+DEBUG2019-07-29 14:37:28,090 [1]
+Finished initialising log uploader
+
+
+INFO 2019-07-29 14:37:28,100 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-07-29 14:37:28,138 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-07-29 14:37:28,157 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-07-29 14:37:28,278 [1]
+Failed to load the following font:Eras Bold ITC 
+{"FailedFont":"Eras Bold ITC"}
+
+INFO 2019-07-29 14:37:28,278 [1]
+Failed to load the following font:Eras Demi ITC 
+{"FailedFont":"Eras Demi ITC"}
+
+INFO 2019-07-29 14:37:28,279 [1]
+Failed to load the following font:Eras Light ITC 
+{"FailedFont":"Eras Light ITC"}
+
+INFO 2019-07-29 14:37:28,279 [1]
+Failed to load the following font:Eras Medium ITC 
+{"FailedFont":"Eras Medium ITC"}
+
+INFO 2019-07-29 14:37:28,569 [1]
+Loaded 219 fonts successfully
+
+
