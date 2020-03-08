@@ -10,7 +10,7 @@ En este documento explicaremos el proceso de instalación y de uso del software 
     - [Edición rápida](#Edición-rápida)
 
 ## Instalación
-Descargar el programa desde el siguiente enlace: https://drive.google.com/file/d/1bCXi3mm60l7iShWg_oirCZeVdT97TGDN/view?usp=sharing
+Descargar el programa desde el siguiente enlace: https://drive.google.com/file/d/1dME1ASFFoOmTNXJXvG5uK2WeXufDkgP2/view?usp=sharing
 
 Luego de eso, hay que descomprimir el archivo descargado en el lugar donde desea instalar el programa. Como es un software portable, solo es necesario tener los archivos y no requiere de un proceso de instalación que modifique los registros.
 
